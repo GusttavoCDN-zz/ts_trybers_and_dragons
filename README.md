@@ -3,7 +3,7 @@
 | :placard: Vitrine.Dev |                                                       |
 | --------------------- | ----------------------------------------------------- |
 | :sparkles: Nome       | **Titulo do meu projeto**                             |
-| :label: Tecnologias   | java, html, ruby, c# (tecnologias utilizadas)         |
+| :label: Tecnologias   | TypeScript, OOP, SOLID       |
 | :rocket: URL          | https://github.com/GusttavoCDN/ts_trybers_and_dragons |
 | :fire: Desafio        | N/A                                                   |
 
